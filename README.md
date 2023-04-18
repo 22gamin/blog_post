@@ -1,4 +1,5 @@
 
 ## ✅ Latest Blog Post
 
-[2023/04/16 - 구독해주세요](https://22gamin.tistory.com/2) <br/>
+[2023/04/17 - 테이블이란?](https://22gamin.tistory.com/6) <br/>
+[2023/04/17 - 데이터베이스란?](https://22gamin.tistory.com/4) <br/>
